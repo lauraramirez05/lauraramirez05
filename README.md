@@ -7,10 +7,11 @@
 - Frontend: HTML, CSS, JavaScript, React, Next.js
 - Backend: Node.js, Express, MongoDB, SQL
 - 👯 **Looking to Collaborate On:** Open source projects or Innovative ideas
-- 🎉 **About Me:**
+  
+###🎉 **About Me:**
 - I love reading romance novels, currently reading *A Court of Thorns and Roses*
 - I love horse back riding 🐴
-📧 **Let's connect!**
+###📧 **Let's connect!**
 - [LinkedIn] https://www.linkedin.com/in/lauraramirezgo/
 - [Email] lauramirezgo5@gmail.com
 
