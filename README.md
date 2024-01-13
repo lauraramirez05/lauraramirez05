@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋, !
 
-<!--
-**lauraramirez05/lauraramirez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on open-source projects (GraphQL, OpenTelemetry, Node.js and React.js)
+🌱 Always learning new technologies
+🏗 I’m developing productivity applications, data visualization tools and beautiful websites
+💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, Ruby, Docker and Webpack
+📫 How to reach me: rbrtm984@gmail.com
+🎥 Loves horror movies
+🖼️ Loves to help fellow developers
+🔗 Portfolio Website: https://rob-mayo-portfolio.vercel.app/
+☕️ Buy me a coffee: https://www.buymeacoffee.com/rbrtm984
+🛠 Building with:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 CSS3 Bootstrap TailwindCSS React NodeJS GraphQL Ruby Jest Docker AWS MongoDB Postgres SQLite Angular Python Selenium
