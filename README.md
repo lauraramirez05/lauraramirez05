@@ -1,14 +1,28 @@
-Hi there 👋, !
+# Hi there I'm Laura 👋!
 
-🔭 I’m currently working on open-source projects (GraphQL, OpenTelemetry, Node.js and React.js)
-🌱 Always learning new technologies
-🏗 I’m developing productivity applications, data visualization tools and beautiful websites
-💬 Ask me about Next.js and React! And many more technologies like JavaScript, TypeScript, Ruby, Docker and Webpack
-📫 How to reach me: rbrtm984@gmail.com
-🎥 Loves horror movies
-🖼️ Loves to help fellow developers
-🔗 Portfolio Website: https://rob-mayo-portfolio.vercel.app/
-☕️ Buy me a coffee: https://www.buymeacoffee.com/rbrtm984
-🛠 Building with:
+🔭 **Currently Working On:**
+- Open-source projects (NextSketch - prototyping and visualizing tool for next.js apps)
 
-HTML5 CSS3 Bootstrap TailwindCSS React NodeJS GraphQL Ruby Jest Docker AWS MongoDB Postgres SQLite Angular Python Selenium
+🌱 **Currently Learning:**
+- Python
+
+💕 **Passionate About:**
+- Developing beautiful UI
+- Playing with design and colors
+
+🚀 **Skills:**
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Node.js, Express, MongoDB, SQL
+
+👯 **Looking to Collaborate On:**
+- Open source projects
+- Innovative ideas
+
+🎉 **About Me:**
+- I love reading romance novels, currently reading *A Court of Thorns and Roses*
+- I love horse back riding 🐴
+
+📧 **Let's connect!**
+- [LinkedIn] https://www.linkedin.com/in/lauraramirezgo/
+- [Email] lauramirezgo5@gmail.com
+
