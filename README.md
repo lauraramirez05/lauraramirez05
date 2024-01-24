@@ -1,7 +1,7 @@
 # Hi there I'm Laura 👋!
 
 - 🔭 **Currently Working On:** Open-source projects (*NextSketch - prototyping and visualizing tool for next.js apps*)
-- 🌱 **Currently Learning:** Python, so if you have any tips or course recommendations let me know!
+- 🌱 **Currently Studying:** for AWS Developer Associate
 - 💕 **Passionate About:** Developing beautiful UI and laying with designs and colors
 - 👯 **Looking to Collaborate On:** Open source projects or Innovative ideas
 #### 🚀 **Skills:**
