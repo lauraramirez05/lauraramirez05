@@ -6,7 +6,7 @@
 - 👯 **Looking to Collaborate On:** Open source projects or Innovative ideas
 #### 🚀 **Skills:**
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Node.js, Express, MongoDB, SQL
+- **Backend:** Node.js, Express, MongoDB, SQL, Python
 #### 🎉 **About Me:**
 - I love reading romance novels, currently reading *A Court of Thorns and Roses*
 - I love horse back riding 🐴
