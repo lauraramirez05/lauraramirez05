@@ -1,4 +1,4 @@
-# Hi there I'm Laura 👋!
+# Hi there I'm Laura!
 
 - 🔭 **Currently Working On:** Open-source projects (*NextSketch - prototyping and visualizing tool for next.js apps*)
 - 🌱 **Currently Studying:** for AWS Developer Associate
