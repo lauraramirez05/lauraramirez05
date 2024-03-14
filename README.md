@@ -8,7 +8,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Node.js, Express, MongoDB, SQL, Python
 #### 🎉 **About Me:**
-- I love reading romance novels, currently reading *A Court of Mist and Fury*
+- I love reading fiction books
 - I love horse back riding 🐴
 #### 📧 **Let's connect!**
 - [LinkedIn] https://www.linkedin.com/in/lauraramirezgo/
